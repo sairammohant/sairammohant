@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sairammohant
 - 👀 I’m interested in kali Linus, Termux
-- 🌱 I’m currently learning Termux
+- 🌱 I’m currently learning App edit
 - 💞️ I’m looking to collaborate on OS edit
 - 📫 How to reach me smartsairammahanty@gmail.com
 
